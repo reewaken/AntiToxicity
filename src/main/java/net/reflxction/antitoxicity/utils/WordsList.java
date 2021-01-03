@@ -51,6 +51,16 @@ public abstract class WordsList {
             "dickhead",
             "nigga",
             "nigger"
+            "fucker"
+            "fuck you"
+            "fck u"
+            "fk u"
+            "so bad"
+            "ur so bad"
+            "L"
+            "ez"
+            "paki"
+            "packi"
     };
 
 
